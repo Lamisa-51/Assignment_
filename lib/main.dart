@@ -66,7 +66,7 @@ class ProductDetailsPage extends StatelessWidget {
                 minimumSize: const Size(80,60),
 
               ),
-              child: const Text('Buy Now',style: TextStyle(fontSize: 20,fontWeight:FontWeight.bold,),),
+              child: const Text('Buy Now',style: TextStyle(fontSize: 18,fontWeight:FontWeight.bold,),),
             ),
           ],
         ),
