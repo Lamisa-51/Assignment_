@@ -63,7 +63,7 @@ class ProductDetailsPage extends StatelessWidget {
               },
               style:ElevatedButton.styleFrom(
                backgroundColor:Colors.purple,
-                minimumSize: const Size(80,60),
+                minimumSize: const Size(60,60),
 
               ),
               child: const Text('Buy Now',style: TextStyle(fontSize: 18,fontWeight:FontWeight.bold,),),
